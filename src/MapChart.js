@@ -3,7 +3,8 @@ import {
     ComposableMap,
     Geographies,
     Geography,
-    Marker
+    Marker,
+    ZoomableGroup
 } from "react-simple-maps";
 
 const geoUrl = "https://raw.githubusercontent.com/zcreativelabs/react-simple-maps/master/topojson-maps/world-110m.json";
