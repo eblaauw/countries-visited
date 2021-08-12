@@ -10,7 +10,7 @@ import {
 const geoUrl = "https://raw.githubusercontent.com/zcreativelabs/react-simple-maps/master/topojson-maps/world-110m.json";
 
 const markers = []
-const countriesVisited = ["NLD", "DEU", "POL", "FR", "DNK", "IND", "KWT", "ARE", "TUR", "ROU", "HUN", "SWE", "NOR", "USA", "GBR", "ESP", "FRA", "CHE", "AUT", "ITA", "BEL", "SAU", "LUX"]
+const countriesVisited = ["NLD", "DEU", "POL", "FR", "DNK", "IND", "KWT", "ARE", "TUR", "ROU", "HUN", "SWE", "NOR", "USA", "GBR", "ESP", "FRA", "CHE", "AUT", "ITA", "BEL", "SAU", "LUX", "EGY"]
 const MapChart = () => {
     return (
         <ComposableMap>
